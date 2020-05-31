@@ -69,5 +69,11 @@ Flat-Remix-Blue-Dark
 https://www.ravefinity.com/p/vibrancy-colors-gtk-icon-theme.html?m=1
 =======
 
+TODO maximize/minimize + home directories style -> vibrancy
+MATE problem resizing window (one pixel) -> use metacity
 
+After:
+https://www.debian.org/security/
+https://www.debian.org/security/audit/tools
+https://security-team.debian.org/security_tracker.html
 
