@@ -67,6 +67,8 @@ https://github.com/lah7/ubuntu-mate-colours
 Flat-Remix-Blue-Dark
 
 https://www.ravefinity.com/p/vibrancy-colors-gtk-icon-theme.html?m=1
+
+font pluma -> edit -> preference -> Ambiant-MATE or Oblivion
 =======
 
 TODO maximize/minimize + home directories style -> vibrancy
